@@ -1,6 +1,5 @@
 package lt.techin.login.praktinis;
 
-import dev.failsafe.internal.util.Durations;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.AfterEach;
 import org.openqa.selenium.WebDriver;

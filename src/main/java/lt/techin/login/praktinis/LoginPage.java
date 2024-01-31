@@ -5,7 +5,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
 
 public class LoginPage extends BasePage {
 
